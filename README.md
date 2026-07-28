@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=250&section=header&text=DIMAS%20MARIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/DIMASMario/DIMASMario/main/assets/header.svg" width="100%"/>
 
 <br/>
 
@@ -185,6 +185,6 @@ and infrastructure as code.
 
 ### 💬 *"Automating Today. Scaling Tomorrow."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=150&section=footer"/>
+<img src="https://raw.githubusercontent.com/DIMASMario/DIMASMario/main/assets/footer.svg" width="100%"/>
 
 </div>
