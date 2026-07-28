@@ -36,8 +36,7 @@
 ☁️ **Cloud & DevOps Engineer** passionate about building **scalable cloud infrastructure**,
 automating deployments, and creating **reliable cloud-native applications**.
 
-🧩 Information Systems student at **Universitas Alma Ata Yogyakarta**, and a proud
-**Bangkit Academy Cloud Computing** graduate.
+🧩 Information Systems student at **Universitas Alma Ata Yogyakarta**.
 
 🚀 Deeply interested in **Cloud Architecture** and **Infrastructure Automation** — I enjoy
 designing systems that scale effortlessly and deploy reliably.
