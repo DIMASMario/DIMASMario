@@ -128,10 +128,6 @@ and infrastructure as code.
 
 <br/><br/>
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DIMASMario&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
 <br/><br/>
 
 ### 🐍 Contribution Snake
