@@ -16,8 +16,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/output/snake.svg" width="100%"/>
-
 <div align="center">
 
 ## 🌌 About Me
