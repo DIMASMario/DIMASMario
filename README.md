@@ -1,105 +1,278 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Dimas%20Mario&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
-
-<a href="https://linkedin.com/in/dimasmario">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Simplify+Infrastructure.+Maximize+Performance;Cloud+Computing+%7C+DevOps+%7C+Cyber+Security;GCP+%2B+AWS+Enthusiast+from+Yogyakarta%2C+Indonesia;Turning+Cloud-Native+Ideas+into+Scalable+Reality" alt="Typing SVG" />
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=250&section=header&text=DIMAS%20MARIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
-<div align="center">
+<a href="https://linkedin.com/in/dimasmario">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=%E2%98%81+Hi%2C+I'm+Dimas+Mario;%E2%9A%99+Cloud+%26+DevOps+Engineer;%F0%9F%9A%80+Building+Scalable+Cloud+Infrastructure;%F0%9F%90%B3+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;%E2%98%81+Google+Cloud+Platform;%E2%98%81+Amazon+Web+Services;%E2%9A%A1+Infrastructure+Automation;%F0%9F%8C%8D+Cloud+Native+Enthusiast" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasmario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasmario864@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dimasmario.github.io/portofolio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIMASMario)
+<br/>
 
-</div>
-
----
-
-### 👋 Tentang Saya
-
-- 🎓 Mahasiswa **Sistem Informasi**, Universitas Alma Ata Yogyakarta (IPK 3.64/4.00)
-- ☁️ Fokus pada **Cloud Computing (GCP & AWS)**, **DevOps**, dan **Cyber Security**
-- 🚀 Alumni **Bangkit Academy** (Google, Tokopedia, Gojek, Traveloka) — Cloud Computing Cohort
-- 🔐 Anggota aktif **Jogja Cyber Security Community**
-- 📈 Terbiasa membangun pipeline CI/CD, mengamankan infrastruktur dengan IAM, dan deploy aplikasi cloud-native
-- 💬 Ajak diskusi soal **Cloud Architecture**, **Automation**, atau **Security Hardening**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Location-Yogyakarta%2C%20Indonesia-0A84FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/University-Universitas%20Alma%20Ata-0A84FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Major-Information%20Systems-0A84FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIMASMario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIMASMario&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMASMario&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
-
-### 🌱 Featured Projects
+<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/output/snake.svg" width="100%"/>
 
 <div align="center">
 
-[![Plant Disease API](https://github-readme-stats.vercel.app/api/pin/?username=DIMASMario&repo=plant-disease-api&theme=tokyonight&hide_border=true)](https://github.com/DIMASMario/plant-disease-api)
-[![Cloud ML Deploy](https://github-readme-stats.vercel.app/api/pin/?username=DIMASMario&repo=cloud-ml-deploy&theme=tokyonight&hide_border=true)](https://github.com/DIMASMario/cloud-ml-deploy)
-
-[![QRIS Payment Sim](https://github-readme-stats.vercel.app/api/pin/?username=DIMASMario&repo=qris-payment-sim&theme=tokyonight&hide_border=true)](https://github.com/DIMASMario/qris-payment-sim)
+## 🌌 About Me
 
 </div>
 
-> 💡 *Ganti nama repo di atas jika nama repository GitHub-mu berbeda dari yang tercantum di CV.*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
-### 📈 Contribution Snake
+```yaml
+👤  Name:        Dimas Mario
+🎓  Education:   Information Systems @ Universitas Alma Ata Yogyakarta
+☁️  Focus:       Cloud Computing & DevOps Engineering
+🏅  Program:     Bangkit Academy — Cloud Computing Graduate
+📍  Location:    Yogyakarta, Indonesia
+```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DIMASMario/DIMASMario/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+
+☁️ **Cloud & DevOps Engineer** passionate about building **scalable cloud infrastructure**,
+automating deployments, and creating **reliable cloud-native applications**.
+
+🧩 Information Systems student at **Universitas Alma Ata Yogyakarta**, and a proud
+**Bangkit Academy Cloud Computing** graduate.
+
+🚀 Deeply interested in **Cloud Architecture** and **Infrastructure Automation** — I enjoy
+designing systems that scale effortlessly and deploy reliably.
+
+🐳 I love building **cloud-native applications** powered by containers, orchestration,
+and infrastructure as code.
+
+📚 Always learning — currently going deeper into modern cloud technologies across
+**GCP**, **AWS**, and the Kubernetes ecosystem.
+
+🌱 Believer in automate everything that can be automated — *"if you do it twice, script it."*
+
 </div>
 
-> ⚙️ *Animasi ular ini butuh setup GitHub Actions sekali di repo profilmu (lihat catatan setup di bawah).*
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DIMASMario&color=00C6FF&style=for-the-badge&label=PROFILE+VIEWS)
+## ⚙️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+
+**☁️ Cloud Platforms**
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+**🐳 DevOps & Infrastructure**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+**💻 Programming Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+**🔧 Backend Development**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**📊 Monitoring & Observability**
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+**🗄️ Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<!--
+  NOTE: Replace the placeholders below with your real repositories once available.
+  These are marked clearly for easy replacement — swap the links, descriptions,
+  and images with your actual GitHub project data (name, description, stars, language).
+-->
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Infra Automation
+**[ ⚠️ PLACEHOLDER — Replace with real repo ]**
+
+Terraform + GitHub Actions pipeline to provision
+multi-environment cloud infrastructure on GCP/AWS
+with zero manual steps.
+
+`Terraform` `GCP` `AWS` `CI/CD`
+
+[🔗 View Repository](https://github.com/DIMASMario)
+
+</td>
+<td width="50%">
+
+### 🐳 Dockerized Microservices
+**[ ⚠️ PLACEHOLDER — Replace with real repo ]**
+
+A containerized microservices backend with
+Docker Compose, FastAPI, and PostgreSQL — built
+for scalable local-to-cloud parity.
+
+`Docker` `FastAPI` `PostgreSQL`
+
+[🔗 View Repository](https://github.com/DIMASMario)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ CI/CD Pipeline Toolkit
+**[ ⚠️ PLACEHOLDER — Replace with real repo ]**
+
+Reusable GitHub Actions workflows for build, test,
+and automated deployment to Cloud Run and
+Kubernetes clusters.
+
+`GitHub Actions` `Kubernetes` `Cloud Run`
+
+[🔗 View Repository](https://github.com/DIMASMario)
+
+</td>
+<td width="50%">
+
+### 🌐 Cloud-Native Backend API
+**[ ⚠️ PLACEHOLDER — Replace with real repo ]**
+
+Production-style backend API deployed on Google
+Cloud Run with Cloud SQL, monitored via Prometheus
+and Grafana dashboards.
+
+`Cloud Run` `Cloud SQL` `Monitoring`
+
+[🔗 View Repository](https://github.com/DIMASMario)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+📌 *Pin your best repositories on GitHub — they'll automatically appear here once you
+replace the placeholders above with links to your real projects.*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DIMASMario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&border_radius=15"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DIMASMario&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&border_radius=15"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMASMario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9&border_radius=15"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DIMASMario&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&area=true&area_color=00C6FF" width="95%"/>
+
+<br/><br/>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=DIMASMario&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DIMASMario/DIMASMario/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<sub>⚠️ Snake animation requires the <code>platane/snk</code> GitHub Action set up on this repository to generate <code>github-contribution-grid-snake-dark.svg</code>.</sub>
+
+<br/><br/>
+
+### 📈 Repository Metrics
+
+<img src="https://metrics.lecoq.io/DIMASMario?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FJakarta" width="95%"/>
+
+<sub>⚠️ Metrics image is generated by the <code>lowlighter/metrics</code> GitHub Action — enable it on your profile repo for live data.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="https://github.com/DIMASMario">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/dimasmario">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://dimasmario.github.io/portofolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:dimasmario864@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DIMASMario&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/DIMASMario?style=for-the-badge&color=0A84FF&labelColor=0D1117&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=0A84FF&label=Repositories&query=public_repos&url=https://api.github.com/users/DIMASMario&logo=github"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+<div align="center">
+
+### 💬 *"Automating Today. Scaling Tomorrow."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=150&section=footer"/>
 
 </div>
