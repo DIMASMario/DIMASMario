@@ -28,7 +28,6 @@
 👤  Name:        Dimas Mario
 🎓  Education:   Information Systems @ Universitas Alma Ata Yogyakarta
 ☁️  Focus:       Cloud Computing & DevOps Engineering
-🏅  Program:     Bangkit Academy — Cloud Computing Graduate
 📍  Location:    Yogyakarta, Indonesia
 ```
 
